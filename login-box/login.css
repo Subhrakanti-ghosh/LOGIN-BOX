@@ -1,0 +1,56 @@
+body{
+    background-image: url(31205.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: sans-serif;
+
+    
+}
+.loginbox
+{
+    width: 260px;
+    height: 360px;
+    background: black;
+    color:white;
+    top: 150px;
+    left: 550px;
+    
+    
+    position: absolute;
+    box-sizing: border-box;
+    
+}
+.avatar
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: 80px;
+}
+.loginbox h3
+{
+    margin-top: 60px;
+    margin-left: 70px;
+    
+}
+.loginbox .check
+{
+    margin-top: 30px;
+    margin-left: 5px;
+    padding: 15px;
+}
+.check
+{
+    border-radius: 15px;
+}
+
+.loginbox .check .st
+{
+    border-radius: 10px;
+    border: none;
+    
+}
